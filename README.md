@@ -1,2 +1,2 @@
 # LPH
-This a repository of code helpful for local public healath
+This an alpha version of astudent project of code helpful for local public health.  I am just learning so please do not use this. In addition since this ius my project as a student I do not know what rights I have and what rigths I can give. If you are intesterested in using it plaselet me know and will check on what I can and can not support.  In the mean time feedback is always apprecaited.  My academic email forthis proect is vmd11@pitt.edu 
